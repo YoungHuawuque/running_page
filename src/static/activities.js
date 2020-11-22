@@ -110,6 +110,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 3.1765153393047982,
     "streak": 7
+  },
+  {
+    "run_id": 9223370430848635307,
+    "name": "run from keep",
+    "distance": 3616.7544564013147,
+    "moving_time": "0:19:11",
+    "type": "Run",
+    "start_date": "2020-11-22 00:29:48",
+    "start_date_local": "2020-11-22 08:29:48",
+    "location_country": "{'latitude': 22.398950466579862, 'longitude': 107.40162760416666, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5e7f\u897f\u58ee\u65cf\u81ea\u6cbb\u533a', 'city': '\u5d07\u5de6\u5e02', 'cityCode': '1771'}",
+    "summary_polyline": "{argCivmnSb@xBEDIF??B@A?DBF@N@\\]@I?WACAG?G?I?I?QAI@IAEDMBK@B@A??????A???A??@???@@?@@???????@A?AAA@AEAA@AJKHMAE?A???@@?o@}@WGuAA_ABkB@gAAgA?kA?}@?aA?aA?eA?cAAkA@oAB[Bk@BUCwBIiAAs@?O@y@@u@AW?y@?w@@Y?yA?aA@m@?gCAeB@y@@_BB}@Aw@@YC_A@eAAcA@eACgACyCE{@B?A?@??I?Q?_AB}@?kA?gB@}@?{@?kA?q@@WAq@Aq@?UCs@C{@@oAkA?y@BYH_BJeAEeBCmAAmD?kBE{@COC@A@?@C?@?AAACAA??A?@??????@?@A@??@????A?@A@@A@A???A?@AC?S@[B}@DcAAwA?Y?e@@QFy@?s@CcBEgAAgA?cCDu@DQFaAOg@?e@Bi@IiAAq@ESGQC??D@?BJ?D@D@L",
+    "average_heartrate": null,
+    "average_speed": 3.142271465161872,
+    "streak": 8
   }
 ];
 
