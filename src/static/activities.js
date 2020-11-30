@@ -152,6 +152,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 3.529463894237735,
     "streak": 8
+  },
+  {
+    "run_id": 9223370430223641907,
+    "name": "run from keep",
+    "distance": 515.9299021104792,
+    "moving_time": "0:12:40",
+    "type": "Run",
+    "start_date": "2020-11-29 06:12:53",
+    "start_date_local": "2020-11-29 14:12:53",
+    "location_country": "{'latitude': 22.854197319878473, 'longitude': 106.7286865234375, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5e7f\u897f\u58ee\u65cf\u81ea\u6cbb\u533a', 'city': '\u5d07\u5de6\u5e02', 'cityCode': '1771'}",
+    "summary_polyline": "edojC}lljS@???@A@???CAA?D@?FC@DA?DB?A?A?EG?AFH??A?DHFE??BCA?@A@CA@AA@B??ABDJFDLD??GC??CCEGEC@@A@?CEAAA??A?@BD@@C@?EBEC???D@A@??B@??C@?AE?@BB?BC@@?@BADBB@@?HF@?@?B?FABDA@D@@A?DDB@J?B?DG@C@E?CBE?CBG@ABGDK@A@G@CFKDC@?BABC@CD?DC@?@@@L@LJT@H@DJNPCT]FGLQBE?K@C@E@EDG@CBCBCBE@C@A@ABEDEJM@CFGBADADAPAD?LJ@DBDDNRRHFNHVLDB@B@@@@F@AAA?A??AC@?@@E",
+    "average_heartrate": null,
+    "average_speed": 0.6788551343558937,
+    "streak": 1
   }
 ];
 
