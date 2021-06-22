@@ -348,6 +348,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 1.6472976462056492,
     "streak": 2
+  },
+  {
+    "run_id": 9223370412572804007,
+    "name": "run from keep",
+    "distance": 2485.6248852126464,
+    "moving_time": "0:16:53",
+    "type": "Run",
+    "start_date": "2021-06-21 13:09:15",
+    "start_date_local": "2021-06-21 21:09:15",
+    "location_country": "{'latitude': 22.806798231336806, 'longitude': 108.34813774956598, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5e7f\u897f\u58ee\u65cf\u81ea\u6cbb\u533a', 'city': '\u5357\u5b81\u5e02', 'cityCode': '0771', 'district': '\u9752\u79c0\u533a', 'districtCode': '450103'}",
+    "summary_polyline": "uqhjCisktSDBNJ^TxDnBzAp@pCvArAj@bBp@JDZLAANFLDZJNFZNl@NRFTPHFJHTT~@n@VPNFHHVPHDJF^PJDJDVRNHZLj@`@pAdAJDND\\PZPh@Nf@h@LB`@LNJXXhAt@NN`@Vp@^h@ZZDPA`ADTFjA?HJFJFLRZTt@Fr@DNDPLr@DPJn@tAvBLJJJX\\TTb@f@HJ^h@JJHJRThApBf@t@FLV\\`@`@l@t@LLJLRZHNVh@JLJNJ`@Td@Xj@Vz@L\\JJHNXb@f@b@DDHLTTHJHHPTHLJJRZHJNXHLFLNXNd@FPPb@T^FN",
+    "average_heartrate": null,
+    "average_speed": 2.453726441473491,
+    "streak": 1
   }
 ];
 
